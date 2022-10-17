@@ -27,7 +27,7 @@
 * Integrated Bootstrap framework to expedite front-end development
 * [Link to webpage](https://vyas95aman.github.io/homepage.github.io/homepage/)
 
-![](images/Screen%20Shot%202022-10-16%20at%205.22.09%20PM.png)
+![](/images/Screen%20Shot%202022-10-16%20at%205.22.09%20PM.png)
 
 ## [Project 5: Series of Python Projects](https://github.com/vyas95aman/Python_Basics)
 * Created a series of Python projects to demonstrate understaning of language
