@@ -6,7 +6,7 @@
 * Provided option for end user to change elements such as size of array, sorting algorithm and sorting time
 * [Link to webpage](https://vyas95aman.github.io/homepage.github.io/sorting_visualizer/)
 
-![](/images/Screen%20Shot%202022-10-16%20at%205.21.15%20PM.png)
+![](images/Screen%20Shot%202022-10-16%20at%205.21.15%20PM.png)
 
 ## [Project 2: Finance](https://github.com/vyas95aman/homepage.github.io/tree/main/finance)
 * Implemented a website where users can simulate buying and selling stocks using IEX Exchange API
