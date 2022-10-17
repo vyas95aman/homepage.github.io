@@ -6,7 +6,7 @@
 * Provided option for end user to change elements such as size of array, sorting algorithm and sorting time
 * [Link to webpage](https://vyas95aman.github.io/homepage.github.io/sorting_visualizer/)
 
-![](/Portfolio/Images/Screen%20Shot%202022-10-16%20at%205.21.15%20PM.png)
+![](/Images/Screen%20Shot%202022-10-16%20at%205.21.15%20PM.png)
 
 ## [Project 2: Finance](https://github.com/vyas95aman/homepage.github.io/tree/main/finance)
 * Implemented a website where users can simulate buying and selling stocks using IEX Exchange API
@@ -14,13 +14,13 @@
 * Created multiple databases using SQL to store user login, portfolio and transaction information
 * Built a client facing website using Flask
 
-![](/Portfolio/Images/Screen%20Shot%202022-10-16%20at%205.41.18%20PM.png)
+![](/Images/Screen%20Shot%202022-10-16%20at%205.41.18%20PM.png)
 
 ## [Project 3: Birthday Database](https://github.com/vyas95aman/homepage.github.io/tree/main/birthdays)
 * Demonstrated the ability to utilize SQL by building a Flask web application to track birthdays 
 * Provided the end user the option to add and delete entries in the database
 
-![](/Portfolio/Images/Screen%20Shot%202022-10-16%20at%205.45.50%20PM.png)
+![](/Images/Screen%20Shot%202022-10-16%20at%205.45.50%20PM.png)
 
 ## [Project 4: Homepage](https://github.com/vyas95aman/homepage.github.io/tree/main/homepage)
 * Built a homepage using JavaScript, HTML and CSS
