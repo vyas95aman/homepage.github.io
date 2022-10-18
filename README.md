@@ -18,7 +18,6 @@
 
 ## [Project 3: Birthday Database](https://github.com/vyas95aman/homepage.github.io/tree/main/birthdays)
 * Demonstrated the ability to utilize SQL by building a Flask web application to track birthdays 
-* Provided the end user the option to add and delete entries in the database
 
 ![](images/Screen%20Shot%202022-10-16%20at%205.45.50%20PM.png)
 
