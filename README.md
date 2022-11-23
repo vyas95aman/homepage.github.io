@@ -4,7 +4,7 @@
 * Created a page that demonstrates how different sorting algorithms work, as part of my final project for CS50
 * Wrote algorithms in JavaScript, and built a user friendly interface using HTML and CSS 
 * Provided option for end user to change elements such as size of array, sorting algorithm and sorting time
-* [Link to webpage](https://vyas95aman.github.io/homepage.github.io/sorting_visualizer/)
+* [Link to webpage](https://vyas95aman.github.io/portfolio.github.io/sorting_visualizer/)
 
 ![](images/Screen%20Shot%202022-10-16%20at%205.21.15%20PM.png)
 
@@ -24,7 +24,7 @@
 ## [Project 4: Homepage](https://github.com/vyas95aman/portfolio.github.io/tree/main/homepage)
 * Built a homepage using JavaScript, HTML and CSS
 * Integrated Bootstrap framework to expedite front-end development
-* [Link to webpage](https://vyas95aman.github.io/homepage.github.io/homepage/)
+* [Link to webpage](https://vyas95aman.github.io/portfolio.github.io/homepage/)
 
 ![](images/Screen%20Shot%202022-10-16%20at%205.22.09%20PM.png)
 
