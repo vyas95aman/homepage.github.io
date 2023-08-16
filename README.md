@@ -3,7 +3,8 @@
 ## [Project 1: Wedding Website](https://github.com/vyas95aman/Wedding_Website)
 * Developed a Flask web application to facilitate wedding planning activities
 * Implemented to do list, guest directory and RSVP function 
-* Collaborated with fiancé to get feedback and implemented changes (bugs, front end, back end) 
+* Collaborated with fiancé to get feedback and implemented changes (bugs, front end, back end)
+* * [Link to webpage](https://amanandshreya.com)
 
 ![](images/Screen%20Shot%202023-03-06%20at%209.16.24%20PM.png)
 
